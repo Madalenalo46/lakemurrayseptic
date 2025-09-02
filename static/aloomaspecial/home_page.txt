@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How far in advance should I book?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For large events, we recommend booking at least two weeks ahead. Emergency rentals are also available.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you provide same-day delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, subject to availability. Call us, and we’ll do everything possible to deliver units the same day.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you handle waste disposal?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Weekly cleaning, restocking, and waste pumping are included in long-term rental packages.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your porta-potties cleaned before delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We handle full servicing and waste removal in compliance with state and local regulations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you provide hand sanitizer or soap?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">es, every rental includes stocked hand sanitizer or soap for sink stations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What maintenance is included?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We handle cleaning, waste removal, and restocking supplies throughout the rental period.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
